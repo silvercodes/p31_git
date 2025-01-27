@@ -1,5 +1,11 @@
 #include <iostream>
 
+class User
+{
+private:
+    int id;
+}
+
 int main()
 {
     int a = 23;
